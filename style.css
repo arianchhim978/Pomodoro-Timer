@@ -55,6 +55,7 @@ margin-top:50px;
     border:solid 2px linear-gradient(90deg, rgba(23,10,254,1) 40%, rgba(0,0,0,1) 40%, rgba(5,91,94,1) 40%, rgba(12,242,250,1) 56%); ;
     margin-top:150px;
     height:400px;
+    display:none;
 }
 .close{
     position:relative;
@@ -70,8 +71,13 @@ margin-top:50px;
 }
 .move{
     position: relative;
-    top:100px;
+    top:180px;
+    right:50px;
     height:40px;
     width:200px;
+    background-color: black;
+    border:none;
+    border-radius:8px;
+    color:aqua;
 }
 }
